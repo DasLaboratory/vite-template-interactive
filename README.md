@@ -9,11 +9,15 @@ The SVG files you'll need to build this project are located in `./src/assets/ima
 
 ## Instalation
 
+**Note:** There is no need to clone or fork anything! Just run the commands below and you are good to go!
+
 ```shell
 npx degit DasLaboratory/vite-template-interactive my-project
 cd my-project
 npm install
 ```
+
+You might want to switch out `my-project` with something more fitting.
 
 ## Development
 
