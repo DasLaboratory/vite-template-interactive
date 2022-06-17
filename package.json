@@ -16,6 +16,6 @@
 		"@das.laboratory/htmlhint-config-interactive": "latest",
 		"@das.laboratory/prettier-config-interactive": "latest",
 		"@das.laboratory/stylelint-config-interactive": "latest",
-		"vite": "^2.7.2"
+		"vite": "^2"
 	}
 }

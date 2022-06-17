@@ -1,14 +1,27 @@
-#app {
-	margin-top: 60px;
-	color: #2c3e50;
-	font-family: Avenir, Helvetica, Arial, sans-serif;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-	text-align: center;
+/**
+ * EXAMPLE CONTENT
+ * Feel free to remove it.
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@200;300;400;500;600;700&display=swap');
+
+body {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
-.intro-image {
-	display: block;
-	height: 70vh;
-	margin: auto;
+#app {
+	text-align: center;
+
+	h1 {
+		font-size: 4rem;
+		font-weight: 400;
+		text-transform: uppercase;
+	}
+
+	.intro-image {
+		display: block;
+		max-width: 80vw;
+		height: 70vh;
+		margin: auto;
+	}
 }

@@ -1,6 +1,11 @@
-// import './style.css'
+/**
+ * EXAMPLE CONTENT
+ * Feel free to remove it.
+ */
+
+import introImage from '../assets/images/intro.svg';
 
 document.querySelector('#app').innerHTML = `
-  <h1>Hello Developer!</h1>
-  <img class="intro-image" src="./media/images/intro.svg" alt="" />
-`;
+   <h1>Hello there!</h1>
+   <img class="intro-image" src="${introImage}" alt="" />
+ `;
