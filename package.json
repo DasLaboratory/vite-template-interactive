@@ -1,0 +1,21 @@
+{
+	"name": "vite-template-interactive",
+	"version": "0.0.1",
+	"scripts": {
+		"build": "vite build",
+		"dev": "vite",
+		"format": "prettier --write \"**/*.{js,vue,scss,html,md,json}\" --ignore-path .prettierignore",
+		"lint": "eslint --ext .js,.vue ./",
+		"preview": "vite preview"
+	},
+	"dependencies": {
+		"sass": "^1.49.0"
+	},
+	"devDependencies": {
+		"@das.laboratory/eslint-config-interactive-next": "latest",
+		"@das.laboratory/htmlhint-config-interactive": "latest",
+		"@das.laboratory/prettier-config-interactive": "latest",
+		"@das.laboratory/stylelint-config-interactive": "latest",
+		"vite": "^2.7.2"
+	}
+}

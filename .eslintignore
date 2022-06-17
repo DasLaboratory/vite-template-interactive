@@ -1,0 +1,7 @@
+# Next line is to see if we are using the .eslintignore file from the home directory. Usefull in debug mode.
+home.example.js
+**/dist/**
+**/node_modules/**
+**/build/**
+**/apis/**
+*.min.js
