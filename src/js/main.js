@@ -3,7 +3,7 @@
  * Feel free to remove it.
  */
 
-import introImage from '../assets/images/intro.svg';
+import introImage from '../assets/example.svg';
 
 document.querySelector('#app').innerHTML = `
    <h1>Hello there!</h1>

@@ -2,6 +2,11 @@
 
 Basic vanilla JS template for [Vite](https://vitejs.dev/). It comes with SASS and a sane folder structure.
 
+## Storyboard & assets
+
+You will find storyboard and raw asset files in the `./_storyboard` folder.  
+The SVG files you'll need to build this project are located in `./src/assets/images`.
+
 ## Instalation
 
 ```shell
